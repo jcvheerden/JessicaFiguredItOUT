@@ -17,8 +17,8 @@ public class WorkShop {
         Scanner scanner = new Scanner(System.in);
 
         
-             
-
+             dkjgfvbjhugfcxtujrujfdhjhjrdyjhe
+;/.fghtf;,bftgkjllcgnogtylkkmnjvncknv, vmvh/,bgf
         // Example ingredients and their calorie values
         String[] ingredients = {"apple", "banana", "chicken breast", "rice", "spinach"};
         int[] calorieValues = {52, 89, 165, 130, 7}; // Calories per 100 grams
