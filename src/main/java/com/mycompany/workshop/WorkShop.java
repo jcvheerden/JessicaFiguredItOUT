@@ -16,9 +16,8 @@ public class WorkShop {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Welcome to the Calorie Calculator!");
-        System.out.println("Welcome to the Calorie Jessica!");
-             System.out.println("Welcome to the WORK Jessica!");
+        
+             
 
         // Example ingredients and their calorie values
         String[] ingredients = {"apple", "banana", "chicken breast", "rice", "spinach"};
